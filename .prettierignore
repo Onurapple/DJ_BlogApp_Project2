@@ -1,0 +1,10 @@
+base.html
+post_list.html
+post_create.html
+post_detail.html
+post_update.html
+post_delete.html
+navbar.html
+login.html
+register.html
+*.html
